@@ -157,7 +157,7 @@ export const projects = [
     image: taskremLogo,
     tags: ["JavaScript", "ReactJs", "HTML", "CSS"],
     github: "https://github.com/prasoon2506/MyPortfolio",
-    webapp: "https://luminous-sopapillas-3973c4.netlify.app",
+    webapp: "https://elaborate-cupcake-be4915.netlify.app",
   },
   {
     id: 1,
