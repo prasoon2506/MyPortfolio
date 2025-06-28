@@ -157,7 +157,7 @@ export const projects = [
     image: taskremLogo,
     tags: ["JavaScript", "ReactJs", "HTML", "CSS"],
     github: "https://github.com/codingmastr/Task-Reminder-Tool",
-    webapp: "chrome://extensions/?id=kngheeibjnnidhfoomkpnbeghackheci",
+    webapp: "https://luminous-sopapillas-3973c4.netlify.app",
   },
   {
     id: 1,
