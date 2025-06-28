@@ -156,7 +156,7 @@ export const projects = [
       "A visually engaging and interactive portfolio built with React.js to showcase my academic progression from school to college. The project highlights key milestones, achievements, and transitions in a timeline format, offering visitors a smooth and informative experience. Designed with a clean UI and responsive layout to ensure accessibility across all devices.",
     image: taskremLogo,
     tags: ["JavaScript", "ReactJs", "HTML", "CSS"],
-    github: "https://github.com/codingmastr/Task-Reminder-Tool",
+    github: "https://github.com/prasoon2506/MyPortfolio",
     webapp: "https://luminous-sopapillas-3973c4.netlify.app",
   },
   {
@@ -186,8 +186,8 @@ export const projects = [
       "A powerful and user-friendly React.js application that fetches and displays comprehensive data about countries worldwide. Simply load the app to explore real-time details such as flags, capitals, populations, currencies, and more. With an intuitive interface and seamless API integration, this tool offers an engaging experience for learners, travelers, and geography enthusiasts alike.",
     image: githubdetLogo,
     tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
-    github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
-    webapp: "https://heroic-mandazi-1dacab.netlify.app",
+    github: "https://github.com/prasoon2506/Country-API",
+    webapp: "https://stellular-platypus-e1f58d.netlify.app",
   },
   {
     id: 4,
