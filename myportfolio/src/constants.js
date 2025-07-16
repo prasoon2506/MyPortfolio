@@ -51,6 +51,7 @@ import webverLogo from './assets/work_logo/web_dig.png';
 import cmLogo from './assets/work_logo/cm.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
+import Solar from './assets/work_logo/3dsolar.png';
 
 
 export const SkillsInfo = [
@@ -149,15 +150,16 @@ export const education = [
 
 export const projects = [
 
+  
   {
     id: 0,
     title: "My Portfolio",
     description:
       "A visually engaging and interactive portfolio built with React.js to showcase my academic progression from school to college. The project highlights key milestones, achievements, and transitions in a timeline format, offering visitors a smooth and informative experience. Designed with a clean UI and responsive layout to ensure accessibility across all devices.",
     image: taskremLogo,
-    tags: ["JavaScript", "ReactJs", "HTML", "CSS"],
+    tags: ["JavaScript", "Three.Js", "HTML5", "CSS3"],
     github: "https://github.com/prasoon2506/MyPortfolio",
-    webapp: "https://luminous-sopapillas-3973c4.netlify.app",
+    webapp: "https://elaborate-cupcake-be4915.netlify.app",
   },
   {
     id: 1,
@@ -171,6 +173,16 @@ export const projects = [
   },
   {
     id: 2,
+    title: "3D Solar",
+    description:
+      "An interactive and visually immersive 3D simulation of the solar system, built using Three.js. Each planet is textured with high-definition imagery and revolves around the sun in real-time. The project includes orbital paths, animated stars, a dynamic space background (skybox), and labeled planets that stay visible while navigating.",
+    image: Solar,
+    tags: ["JavaScript", "ReactJs", "HTML", "CSS"],
+    github: "https://github.com/prasoon2506/Frontend-Assignment-Prasoon-Krishna-Gupta-/tree/main",
+    webapp: "https://frontend-assignment-prasoon-krishna.vercel.app",
+  },
+  {
+    id: 3,
     title: "Ticket Booking Website",
     description:
       "A fast and responsive web-based application developed using HTML, CSS, and JavaScript for seamless ticket reservations. Designed with user experience in mind, it supports real-time booking features, ensures smooth performance across devices through responsive design, and offers an intuitive interface for hassle-free navigation and booking.",
@@ -180,7 +192,7 @@ export const projects = [
     webapp: "https://ticket-booking-one-tau.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Country API",
     description:
       "A powerful and user-friendly React.js application that fetches and displays comprehensive data about countries worldwide. Simply load the app to explore real-time details such as flags, capitals, populations, currencies, and more. With an intuitive interface and seamless API integration, this tool offers an engaging experience for learners, travelers, and geography enthusiasts alike.",
@@ -190,7 +202,7 @@ export const projects = [
     webapp: "https://stellular-platypus-e1f58d.netlify.app",
   },
   {
-    id: 4,
+    id: 5,
     title: "Amazon Clone",
     description:
       "A static front-end clone of the Amazon homepage, meticulously crafted using HTML and CSS. This project replicates the layout, design, and visual structure of Amazon’s user interface, including the header, product grid, navigation bar, and footer. Built to sharpen skills in semantic HTML, CSS Flexbox/Grid, and responsive design principles.",
@@ -200,7 +212,7 @@ export const projects = [
     webapp: "https://amazon-clone1.vercel.app",
   },
   {
-    id: 5,
+    id: 6,
     title: "Netflix Clone",
     description:
       "A pixel-perfect front-end replica of Netflix's homepage created using HTML and CSS. This project mirrors the sleek and modern UI of Netflix, featuring banners, content sections, and a responsive layout. Designed to enhance skills in UI design, responsive web development, and CSS styling techniques like Flexbox and Grid.",
@@ -209,13 +221,5 @@ export const projects = [
     github: "https://github.com/prasoon2506/Netflix-clone",
     webapp: "https://netflix-clone-pi-ruddy.vercel.app",
   },
-  {
-    id: 6,
-    title: "Library Management System",
-    description:
-      "A console-based application developed in C to efficiently manage books and student records. Utilized file handling and structs to perform operations such as adding, searching, issuing, and returning books. Designed to ensure organized data storage and retrieval, this project strengthened core programming logic and understanding of data structures in C.",
-    image: imagesearchLogo,
-    tags: ["C Language"],
-    github: "https://github.com/prasoon2506/Library-Management",
-  },
+  
 ];  
